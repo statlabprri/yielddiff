@@ -1,0 +1,56 @@
+Province,2019 DS RBFHS,2020 DS RCEP,Yielddiff,sigtest
+Antique,1.964394444,3.278027037,1.313632593,Yield significantly increased
+Ilocos Sur,2.471431602,4.193262827,1.721831225,Yield significantly increased
+Palawan,2.409209259,3.671890766,1.262681507,Yield significantly increased
+Aurora,3.636600214,4.863043596,1.226443382,Yield significantly increased
+Quirino,3.367560469,4.690597273,1.323036804,Yield significantly increased
+Aklan,2.247582544,2.312547619,0.064965075,Yield did not change significantly
+Negros Oriental,2.930394286,3.552684866,0.62229058,Yield significantly increased
+Albay,2.460311111,3.455629761,0.99531865,Yield significantly increased
+Sorsogon,2.999916162,4.505356167,1.505440005,Yield significantly increased
+Oriental Mindoro,3.916080281,4.926704985,1.010624704,Yield significantly increased
+La Union,3.173162166,4.151740838,0.978578672,Yield significantly increased
+Cavite,3.405278449,4.348528914,0.943250465,Yield significantly increased
+Capiz,2.150709617,3.299865036,1.149155419,Yield significantly increased
+Ilocos Norte,3.636806748,4.484893315,0.848086567,Yield did not change significantly
+Pangasinan,3.3532616,4.187682253,0.834420653,Yield significantly increased
+Sultan Kudarat,2.743822222,3.529532729,0.785710507,Yield significantly increased
+Davao Oriental,4.608260534,5.432919671,0.824659137,Yield significantly increased
+Maguindanao,4.417414957,5.27454844,0.857133483,Yield significantly increased
+Cagayan,3.775743675,4.482775539,0.707031864,Yield significantly increased
+Negros Occidental,2.596178843,3.2784125,0.682233657,Yield significantly increased
+Bohol,1.858820202,2.425139924,0.566319722,Yield significantly increased
+Iloilo,2.389119475,3.098401845,0.70928237,Yield significantly increased
+Zamboanga Sibugay,3.356707648,3.19313702,-0.163570628,Yield did not change significantly
+North Cotabato,3.364512412,3.956599141,0.592086729,Yield significantly increased
+Bulacan,3.867383412,4.417198693,0.549815281,Yield did not change significantly
+Ifugao,4.027164021,4.428592204,0.401428183,Yield did not change significantly
+Davao del Norte,3.89690928,4.281853739,0.384944459,Yield did not change significantly
+Nueva Vizcaya,4.227730237,4.33079388,0.103063643,Yield did not change significantly
+Kalinga,3.852324963,4.573238328,0.720913365,Yield did not change significantly
+Surigao del Sur,3.441230988,3.67103541,0.229804422,Yield did not change significantly
+Agusan del Sur,3.226841217,3.619058205,0.392216988,Yield did not change significantly
+Samar,1.477490861,1.808376058,0.330885197,Yield did not change significantly
+Isabela,4.932543122,5.027130043,0.094586921,Yield did not change significantly
+Zambales,2.630664103,2.859985434,0.229321331,Yield did not change significantly
+Compostela Valley,4.482046274,4.577528518,0.095482244,Yield did not change significantly
+Zamboanga del Sur,4.980499054,3.909465332,-1.071033722,Yield significantly decreased
+Bukidnon,3.001208744,3.151591016,0.150382272,Yield did not change significantly
+Pampanga,4.62970431,4.717924331,0.088220021,Yield did not change significantly
+Occidental Mindoro,4.608256593,4.729862062,0.121605469,Yield did not change significantly
+Leyte,3.292625911,3.291789195,-0.000836716,Yield did not change significantly
+Nueva Ecija,4.821615249,4.720455953,-0.101159296,Yield did not change significantly
+Tarlac,4.331837,4.304618649,-0.027218351,Yield did not change significantly
+Misamis Occidental,4.539872727,4.390236497,-0.14963623,Yield did not change significantly
+Misamis Oriental,3.642248563,3.426313823,-0.21593474,Yield did not change significantly
+Quezon,4.004174741,3.789881,-0.214293741,Yield did not change significantly
+Masbate,2.624861783,1.988065934,-0.636795849,Yield did not change significantly
+Davao del Sur,5.009939909,4.610763088,-0.399176821,Yield did not change significantly
+Agusan del Norte,4.510337154,4.221876894,-0.28846026,Yield did not change significantly
+Southern Leyte,4.116100479,3.762404657,-0.353695822,Yield did not change significantly
+Camarines Sur,4.582721755,3.879560983,-0.703160772,Yield did not change significantly
+South Cotabato,4.774427079,3.762381454,-1.012045625,Yield significantly decreased
+Bataan,4.258251862,3.912259277,-0.345992585,Yield did not change significantly
+Laguna,5.729267978,4.618916974,-1.110351004,Yield significantly decreased
+Biliran,4.303316667,3.80306383,-0.500252837,Yield did not change significantly
+Lanao del Norte,5.292896571,3.902010477,-1.390886094,Yield significantly decreased

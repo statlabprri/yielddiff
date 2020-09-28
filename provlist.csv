@@ -1,0 +1,58 @@
+province,regid,region
+IFUGAO,1,Cordillera Administrative Region (CAR)
+KALINGA,1,Cordillera Administrative Region (CAR)
+ILOCOS NORTE,2,Region I - Ilocos Region
+ILOCOS SUR,2,Region I - Ilocos Region
+LA UNION,2,Region I - Ilocos Region
+PANGASINAN,2,Region I - Ilocos Region
+CAGAYAN,3,Region II - Cagayan Valley
+ISABELA,3,Region II - Cagayan Valley
+NUEVA VIZCAYA,3,Region II - Cagayan Valley
+QUIRINO,3,Region II - Cagayan Valley
+AURORA,4,Region III - Central Luzon
+BATAAN,4,Region III - Central Luzon
+BULACAN,4,Region III - Central Luzon
+NUEVA ECIJA,4,Region III - Central Luzon
+PAMPANGA,4,Region III - Central Luzon
+TARLAC,4,Region III - Central Luzon
+ZAMBALES,4,Region III - Central Luzon
+CAVITE,5,Region IVA - CALABARZON
+LAGUNA,5,Region IVA - CALABARZON
+QUEZON,5,Region IVA - CALABARZON
+OCCIDENTAL MINDORO,6,Region IVB - MIMAROPA
+ORIENTAL MINDORO,6,Region IVB - MIMAROPA
+PALAWAN,6,Region IVB - MIMAROPA
+ALBAY,7,Region V - Bicol Region
+CAMARINES SUR,7,Region V - Bicol Region
+MASBATE,7,Region V - Bicol Region
+SORSOGON,7,Region V - Bicol Region
+AKLAN,8,Region VI - Western Visayas
+ANTIQUE,8,Region VI - Western Visayas
+CAPIZ,8,Region VI - Western Visayas
+NEGROS OCCIDENTAL,8,Region VI - Western Visayas
+ILOILO,8,Region VI - Western Visayas
+BOHOL,9,Region VII - Central Visayas
+NEGROS ORIENTAL,9,Region VII - Central Visayas
+BILIRAN,10,Region VIII - Eastern Visayas
+LEYTE,10,Region VIII - Eastern Visayas
+SAMAR (WESTERN SAMAR),10,Region VIII - Eastern Visayas
+SOUTHERN LEYTE,10,Region VIII - Eastern Visayas
+ZAMBOANGA DEL SUR,11,Region IX - Zamboanga Peninsula
+ZAMBOANGA SIBUGAY,11,Region IX - Zamboanga Peninsula
+LANAO DEL NORTE,12,Region X - Northern Mindanao
+MISAMIS OCCIDENTAL,12,Region X - Northern Mindanao
+MISAMIS ORIENTAL,12,Region X - Northern Mindanao
+BUKIDNON,12,Region X - Northern Mindanao
+DAVAO DE ORO,13,Region XI - Davao Region
+DAVAO DEL NORTE,13,Region XI - Davao Region
+DAVAO DEL SUR,13,Region XI - Davao Region
+DAVAO ORIENTAL,13,Region XI - Davao Region
+NORTH COTABATO,14,Region XII - SOCCKSARGEN
+SARANGANI,14,Region XII - SOCCKSARGEN
+SOUTH COTABATO,14,Region XII - SOCCKSARGEN
+SULTAN KUDARAT,14,Region XII - SOCCKSARGEN
+AGUSAN DEL NORTE,15,Caraga Administrative Region  (CARAGA)
+AGUSAN DEL SUR,15,Caraga Administrative Region  (CARAGA)
+SURIGAO DEL SUR,15,Caraga Administrative Region  (CARAGA)
+MAGUINDANAO,16, Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)
+LANAO DEL SUR,16, Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)
